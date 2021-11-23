@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Инвентаризация РусГидро</string>
+    <string name="action_settings">Настройки</string>
+    <string name="list_fragment_label">Список товаров</string>
+    <string name="websrv_addr_title">Адрес сервера</string>
+    <string name="websrv_addr_dlg_title">Введите адрес сервера</string>
+    <string name="websrv_login_title">Логин сервиса</string>
+    <string name="websrv_addr_dlg_login">Введите логин сервиса</string>
+    <string name="websrv_pass_title">Пароль сервиса</string>
+    <string name="websrv_pass_dlg_title">Введите пароль сервиса</string>
+    <string name="inventory_of_goods">Инвентаризация товаров</string>
+    <string name="fixed_asset_inventory">Инветаризация ОС</string>
+    <string name="document_number">Номер доумента</string>
+    <string name="search_and_load">Найти и загрузить</string>
+    <string name="doc_load_fragment_label">Соединение</string>
+    <string name="camera_permission">Вы не можете сканировать без этого разрешения</string>
+    <string name="main_list_content_desc">Список товаров</string>
+    <string name="connection_not_found">Сеть не найдена</string>
+    <string name="connection_to_db">Не удалось соединиться с базой данных</string>
+    <string name="account_num">Кол-во по учёту:</string>
+    <string name="fact_num">Кол-во факт:</string>
+    <string name="barcode_search_error">Не найден элемент со штрихкодом: $barcodeArg</string>
+    <string name="db_name_title">Имя базы данных</string>
+    <string name="db_name_dgl_title">Введите имя базы данных</string>
+    <string name="doc_updated">Документ системы обновлён</string>
+    <string name="doc_not_updated">Документ системы не обновлён</string>
+    <string name="timeout_exception">Соединение завершено по таймауту</string>
+    <string name="scan_barcode">Сканировать штрихкод</string>
+    <string name="send_info">Отправить информацию в базу данных</string>
+</resources>

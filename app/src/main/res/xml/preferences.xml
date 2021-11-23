@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <EditTextPreference
+        android:dialogTitle="@string/websrv_addr_dlg_title"
+        android:key="server_addr"
+        android:title="@string/websrv_addr_title"
+        app:useSimpleSummaryProvider="true" />
+
+    <EditTextPreference
+        android:dialogTitle="@string/db_name_dgl_title"
+        android:key="db_name"
+        android:title="@string/db_name_title"
+        app:useSimpleSummaryProvider="true" />
+
+    <EditTextPreference
+        android:dialogTitle="@string/websrv_addr_dlg_login"
+        android:key="service_login"
+        android:title="@string/websrv_login_title"
+        app:useSimpleSummaryProvider="true" />
+
+    <EditTextPreference
+        android:dialogTitle="@string/websrv_pass_dlg_title"
+        android:inputType="textPassword"
+        android:key="service_pass"
+        android:title="@string/websrv_pass_title"
+        app:useSimpleSummaryProvider="true" />
+
+</androidx.preference.PreferenceScreen>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RusHydroInventorisation</string>
+    <string name="action_settings">Settings</string>
+    <string name="list_fragment_label">Goods list</string>
+
+    <string name="camera_permission">You can\'t scan barcodes without this permission</string>
+    <string name="websrv_addr_title">Server address</string>
+    <string name="websrv_addr_dlg_title">Enter server address</string>
+    <string name="websrv_login_title">Service login</string>
+    <string name="websrv_addr_dlg_login">Enter service login</string>
+    <string name="websrv_pass_title">Service password</string>
+    <string name="websrv_pass_dlg_title">Enter service password</string>
+    <string name="inventory_of_goods">Inventory of goods</string>
+    <string name="fixed_asset_inventory">Fixed asset inventory</string>
+    <string name="document_number">Document number</string>
+    <string name="search_and_load">Search and load</string>
+    <string name="doc_load_fragment_label">Connection</string>
+    <string name="main_list_content_desc">Goods list</string>
+    <string name="connection_not_found">Network connection not found</string>
+    <string name="connection_to_db">Connection to database failed</string>
+    <string name="account_num">Account num:</string>
+    <string name="fact_num">Fact num:</string>
+    <string name="barcode_search_error">Can\'t find list element with barcode: $barcodeArg</string>
+    <string name="db_name_title">Database name</string>
+    <string name="db_name_dgl_title">Enter database name</string>
+    <string name="doc_updated">System document updated</string>
+    <string name="doc_not_updated">System document not updated</string>
+    <string name="timeout_exception">Timeout exception</string>
+    <string name="scan_barcode">Scan barcode</string>
+    <string name="send_info">Send info to database</string>
+</resources>
