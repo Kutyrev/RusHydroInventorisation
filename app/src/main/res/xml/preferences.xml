@@ -25,6 +25,6 @@
         android:inputType="textPassword"
         android:key="service_pass"
         android:title="@string/websrv_pass_title"
-        app:useSimpleSummaryProvider="true" />
+        app:useSimpleSummaryProvider="false" />
 
 </androidx.preference.PreferenceScreen>
